@@ -61,19 +61,19 @@ Use the following activities to evaluate your needs in terms of business continu
 
  
 
-Disaster Recovery Planning: Use the information in this section to define the scope and requirements in terms of business continuity. 
+[Disaster Recovery Planning](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/1.0-Disaster-Recovery-Planning.md): Use the information in this section to define the scope and requirements in terms of business continuity. 
 
 
 
  
 
-Azure Disaster Recovery Implementation: Use the information in this section to define the disaster recovery strategies for each cloud service. 
+[Azure Disaster Recovery Implementation](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/2.0-Azure-Disaster-Recovery-Implementation.md): Use the information in this section to define the disaster recovery strategies for each cloud service. 
 
 
 
  
 
-Azure Disaster Recovery Simulation and Gap Analysis: Use the information in this section to define and execute a disaster recovery simulation and identify gaps and mitigation approaches. 
+[Azure Disaster Recovery Simulation and Gap Analysis](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/3.0-Azure-Disaster-Recovery-Simulation-and-Gap-Analysis.md): Use the information in this section to define and execute a disaster recovery simulation and identify gaps and mitigation approaches. 
 
 
 
@@ -85,7 +85,7 @@ Next Steps
 
  
 
-Disaster Recovery Planning 
+[Disaster Recovery Planning](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/1.0-Disaster-Recovery-Planning.md)
 
 
 
