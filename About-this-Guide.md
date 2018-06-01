@@ -17,15 +17,15 @@ The content in this guide is appropriate for use by (but not strictly limited to
 
 Use the following activities to evaluate your needs in terms of business continuity and implement appropriate disaster recovery capabilities: 
 
-- [Disaster Recovery Planning](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/1.0-Disaster-Recovery-Planning.md): Use the information in this section to define the scope and requirements in terms of business continuity. 
+- [Disaster Recovery Planning](./1.0-Disaster-Recovery-Planning.md): Use the information in this section to define the scope and requirements in terms of business continuity. 
 
-- [Azure Disaster Recovery Implementation](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/2.0-Azure-Disaster-Recovery-Implementation.md): Use the information in this section to define the disaster recovery strategies for each cloud service. 
+- [Azure Disaster Recovery Implementation](./2.0-Azure-Disaster-Recovery-Implementation.md): Use the information in this section to define the disaster recovery strategies for each cloud service. 
 
-- [Azure Disaster Recovery Simulation and Gap Analysis](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/3.0-Azure-Disaster-Recovery-Simulation-and-Gap-Analysis.md): Use the information in this section to define and execute a disaster recovery simulation and identify gaps and mitigation approaches. 
+- [Azure Disaster Recovery Simulation and Gap Analysis](/3.0-Azure-Disaster-Recovery-Simulation-and-Gap-Analysis.md): Use the information in this section to define and execute a disaster recovery simulation and identify gaps and mitigation approaches. 
 
 
 ## Next Steps 
-[Disaster Recovery Planning](https://github.com/alvarovitta/Disaster-Recovery-/blob/master/1.0-Disaster-Recovery-Planning.md)
+[Disaster Recovery Planning](./1.0-Disaster-Recovery-Planning.md)
 
 
 
