@@ -1,6 +1,6 @@
-- name: Azure Disaster Recovery
+* name: Azure Disaster Recovery
 
-Use this as a template - links refer to conent from Security
+Use this as a template * links refer to conent from Security
 
 
 
@@ -22,7 +22,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-  - name: Identifying your Business Requirements
+  * name: Identifying your Business Requirements
 
 
 
@@ -46,7 +46,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Evaluating your On-Premise Security Policies
+      * name: Evaluating your On-Premise Security Policies
 
 
 
@@ -62,7 +62,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Evaluating your On-Premise Compliance Policies
+      * name: Evaluating your On-Premise Compliance Policies
 
 
 
@@ -78,7 +78,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-  - name: Implementing your Azure Security Policies
+  * name: Implementing your Azure Security Policies
 
 
 
@@ -102,7 +102,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Establishing your Security Baseline
+      * name: Establishing your Security Baseline
 
 
 
@@ -118,7 +118,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Designing your Azure Security Policies
+      * name: Designing your Azure Security Policies
 
 
 
@@ -134,7 +134,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Top 10 Baseline Azure Security Policies
+      * name: Top 10 Baseline Azure Security Policies
 
 
 
@@ -150,7 +150,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-  - name: Securing your Azure Resources
+  * name: Securing your Azure Resources
 
 
 
@@ -174,7 +174,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Securing IaaS Resources
+      * name: Securing IaaS Resources
 
 
 
@@ -198,7 +198,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-          - name: Securing Azure IaaS Workloads
+          * name: Securing Azure IaaS Workloads
 
 
 
@@ -214,7 +214,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Securing PaaS Resources
+      * name: Securing PaaS Resources
 
 
 
@@ -230,7 +230,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Securing your Network
+      * name: Securing your Network
 
 
 
@@ -246,7 +246,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Securing and Encrypting Data
+      * name: Securing and Encrypting Data
 
 
 
@@ -262,7 +262,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-  - name: Operationalizing Security
+  * name: Operationalizing Security
 
 
 
@@ -286,7 +286,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Authentication
+      * name: Authentication
 
 
 
@@ -310,7 +310,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-          - name: Designing your Conditional Policies
+          * name: Designing your Conditional Policies
 
 
 
@@ -326,7 +326,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Delegation
+      * name: Delegation
 
 
 
@@ -350,7 +350,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-          - name: Designing your Delegation Model
+          * name: Designing your Delegation Model
 
 
 
@@ -366,7 +366,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-     - name: Monitoring and Alerting
+     * name: Monitoring and Alerting
 
 
 
@@ -382,7 +382,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Business Continuity
+      * name: Business Continuity
 
 
 
@@ -398,7 +398,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Patching
+      * name: Patching
 
 
 
@@ -414,7 +414,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Incident Response Management
+      * name: Incident Response Management
 
 
 
@@ -430,7 +430,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Threat Management
+      * name: Threat Management
 
 
 
@@ -446,7 +446,7 @@ Use this as a template - links refer to conent from Security
 
 
 
-      - name: Assume Breach Strategy
+      * name: Assume Breach Strategy
 
 
 
